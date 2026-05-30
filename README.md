@@ -79,7 +79,7 @@ $$f_{Z_n}(x) = \frac{1}{2\pi} \int_{-\infty}^{+\infty} \varphi_{Z_n}(t) e^{-itx}
 
 1. Клонируйте репозиторий проекта 
 ```bash
-git clone https://github.com
+git clone https://github.com/Leonid2005ponchik/Fourier-CLT-Prover
 cd Fourier-CLT-Prover 
 ```
 
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ```
 3. Запустите дашборд:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Автор
